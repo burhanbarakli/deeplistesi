@@ -61,5 +61,22 @@
 <p><img src="https://i.ibb.co/mywhTvY/9.png" alt="enter image description here"><br>
 <img src="https://i.ibb.co/gy1VJ7C/10.png" alt="enter image description here"></p>
 </li>
+<li>
+<p><strong>TensorFlow 2.0 Practical</strong> Master Tensorflow 2.0, Google’s most powerful Machine Learning Library, with 10 practical projects<br>
+<img src="https://i.ibb.co/brw79J3/18.png" alt="enter image description here"></p>
+</li>
+<li>
+<p><strong>TensorFlow 2.0 Practical Advanced</strong> Master Tensorflow 2.0, Google’s most powerful Machine Learning Library, with 5 advanced practical projects<br>
+<img src="https://i.ibb.co/wKzWRNd/19.png" alt="enter image description here"></p>
+</li>
+<li>
+<p><strong>Unsupervised Deep Learning in Python</strong> Theano / Tensorflow: Autoencoders, Restricted Boltzmann Machines, Deep Neural Networks, t-SNE and PCA<br>
+<img src="https://i.ibb.co/VTDBsr2/20.png" alt="enter image description here"></p>
+</li>
+<li>
+<p><strong>Tensorflow 2.0: Deep Learning and Artificial Intelligence</strong> Neural Networks for Computer Vision, Time Series Forecasting, NLP, GANs, Reinforcement Learning, and More!<br>
+<img src="https://i.ibb.co/gD96xW5/21.png" alt="enter image description here"><br>
+<img src="https://i.ibb.co/bLwnpb4/22.png" alt="enter image description here"></p>
+</li>
 </ul>
 
